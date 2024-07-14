@@ -13,7 +13,6 @@ Project is done using Jupyter Notebook Files. 3 different notebooks are used for
 
 - **spectrogram_extraction:** This is the notebook where the dataset is prepared. 
 Mel and STFT spectrograms are extracted as features using Librosa library for digital signal processing.
-
 After extracting features, all tracks are foldered by their genres for classification.
 
 - **cnn_model_comparison.ipynb:** Notebook that CNN architectures are built, trainings and comparisons are done. 
